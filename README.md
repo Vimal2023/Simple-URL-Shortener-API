@@ -100,3 +100,4 @@ GET ```http://localhost:5000/nonexistentId```
 # Deployment
 - The application is deployed on Render.
 - Access the live API at:
+  ```https://simple-url-shortener-api-7182.onrender.com/```
